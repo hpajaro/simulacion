@@ -4,7 +4,7 @@ function setup(){
 }
 function draw(){
     background("#fff");
-    stroke(0);
+    stroke(0,255,0);
   translate(250,height); 
     rama(150)
 }
